@@ -1,6 +1,6 @@
 Chapter 5
 
-Getting your Mazacoin Wallet
-  I like using Encompass to hold my MazaCoin.  You can also use Mazacoind.
+== Getting your Mazacoin Wallet
+I like using Encompass to hold my MazaCoin.  You can also use Mazacoind.
   
-  You can also hold the keys to your Mazacoin in a trezor hardware wallet.
+You can also hold the keys to your Mazacoin in a trezor hardware wallet.
