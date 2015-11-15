@@ -1,6 +1,6 @@
 Chapter 4
 
-Use a payment processor?
-  CoinPayments is great for accepting several forms of payments.  I like that they accept MazaCoin especially.
+== Use a payment processor?
+CoinPayments is great for accepting several forms of payments.  I like that they accept MazaCoin especially.
 
 Open cart is also a great solution.
