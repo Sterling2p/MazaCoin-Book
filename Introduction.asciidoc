@@ -1,5 +1,6 @@
 Introduction
-
+With this book I hope to open your eyes to some new possibilities avalible on the Internet today.
 What is Mazacoin?
-
+Mazacoin is an electronic currency which is created nd stays on it's own network.  You access it via wallet software and that is how you prove ownership of this asset.  It is traded online 24/7 on exchanges which gives it a market value.
 What is this book about?
+This book is about showing you how to profit from creating a product or service, website and selling using Mazacoin.
