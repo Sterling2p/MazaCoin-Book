@@ -6,3 +6,6 @@ Mazacoin is an electronic currency which is created nd stays on it's own network
 
 === What is this book about?
 This book is about showing you how to profit from creating a product or service, website and selling using Mazacoin.
+
+=== Why not use cash or credit cards?
+Cash is becoming obviously hard to transfer.  It is ok for now for anyone to do face to face transactions, but how about when they are in different states or countries?  Credit cards are better, but you need to confirm the owner and they are not as secure.  You also have to accept 3% fees as a merchant.  With Mazacoin, a processor for your website transactions might charge you 0.5% transaction fee.
