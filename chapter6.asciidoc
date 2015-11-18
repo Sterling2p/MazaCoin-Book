@@ -1,3 +1,4 @@
 Chapter 6
 
 == Using Exchanges
+There comes a time to transfer some of your Mazacoin to something else.  This is where exchanges come in.  If you still need US Dollars for some of your bills, then you would exchange your Mazacoin for Bitcoin and then exchange your Bitcoin for US Dollars.  Maybe one day someone will open an exchange where we can trade Mazacoin directly to US Dollars.
